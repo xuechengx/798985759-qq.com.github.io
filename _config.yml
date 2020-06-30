@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: xuechengx/xuechengx.github.io
 github_url: https://github.com/xuechengx
-url: http://www.xuechengx.com
-enforce_ssl: xuechengx.com
+url: https://xuechengx.github.io
+enforce_ssl: github_username.com
 
 ## Gem
 plugins:
