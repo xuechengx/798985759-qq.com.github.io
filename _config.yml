@@ -15,10 +15,10 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: github_xcxdnf/github_xcxdnf.github.io
+repository: xuechengx/github_xcxdnf.github.io
 github_url: https://github.com/github_xcxdnf
-url: http://www.github_xcxdnf.com
-enforce_ssl: github_xcxdnf.com
+url: http://www.xuechengx.com
+enforce_ssl: xuechengx.com
 
 ## Gem
 plugins:
